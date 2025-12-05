@@ -73,7 +73,7 @@ export ANTHROPIC_API_KEY="your-key-here"
 - Python 3.9+
 - OpenAI API key (for GPT-4o-mini and GPT-5)
 - Anthropic API key (for Claude Sonnet 4)
-- ~$50 in API credits for full experiment
+- ~$10-15 in API credits for full experiment
 
 ### API Rate Limits Used
 
