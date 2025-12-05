@@ -10,7 +10,7 @@ LLMs show strong market knowledge but fail as trading agents. This repo tests GP
 
 > **LLMs can possess perfect historical knowledge of market events but fundamentally cannot convert this knowledge into profitable trading decisions.**
 
-We tested three frontier LLMs (GPT-4o-mini, GPT-5, Claude Sonnet 4) as autonomous trading agents across 1,489 trading days. Despite GPT-5 and Claude having explicit training data covering 2024 market events:
+ tested three frontier LLMs (GPT-4o-mini, GPT-5, Claude Sonnet 4) as autonomous trading agents across 1,489 trading days. Despite GPT-5 and Claude having explicit training data covering 2024 market events:
 
 - **All models produced negative alpha** (mean: -10.89%)
 - **Zero correlation** between model confidence and returns (r = -0.001)
