@@ -39,6 +39,8 @@ Their "knowledge" of 2024 market gains manifests as trend confirmation bias ("st
 
 ## 🔬 Confidence Analysis
 
+![Confidence Calibration Curve Plot](images/confidence_calibration.png)
+
 We found that LLM confidence scores are completely meaningless for trading:
 
 | Analysis | Result | Implication |
