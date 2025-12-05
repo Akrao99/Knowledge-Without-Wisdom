@@ -18,6 +18,8 @@ We tested three frontier LLMs (GPT-4o-mini, GPT-5, Claude Sonnet 4) as autonomou
 
 ## 📊 Results Summary
 
+![Result Summary](images/analysis.jpg)
+
 | Model | Period | Alpha | Hold % | Buys | Sells | Failure Mode |
 |-------|--------|-------|--------|------|-------|--------------|
 | GPT-4o-mini | In-Training | -33.08% | 87.4% | 103 | 24 | Paralysis |
